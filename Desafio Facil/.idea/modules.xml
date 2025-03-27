@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Desafio Facil.iml" filepath="$PROJECT_DIR$/.idea/Desafio Facil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project-3-Geometria/Project-3-Geometria.iml" filepath="$PROJECT_DIR$/Project-3-Geometria/Project-3-Geometria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tralbalho Java 2703/Tralbalho Java 2703.iml" filepath="$PROJECT_DIR$/Tralbalho Java 2703/Tralbalho Java 2703.iml" />
+    </modules>
+  </component>
+</project>
